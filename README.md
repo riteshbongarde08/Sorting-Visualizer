@@ -15,6 +15,6 @@
 
 ![img1](https://github.com/riteshbongarde08/Sorting-Visualizer/blob/master/img/img1.png)
 
-![img2](https://https://github.com/riteshbongarde08/Sorting-Visualizer/assets/132136362/7a35feed-65df-4745-8886-96a92f4c394c)
+![img2](https://github.com/riteshbongarde08/Sorting-Visualizer/blob/master/img/img2.png)
 
-![img3](https://https://github.com/riteshbongarde08/Sorting-Visualizer/assets/132136362/643d5f68-a2d8-4b7a-81b9-c9a7447e3b37)
+![img3](https://github.com/riteshbongarde08/Sorting-Visualizer/blob/master/img/img3.png)
