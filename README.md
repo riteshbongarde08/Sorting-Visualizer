@@ -13,7 +13,7 @@
 <br>
 <br>
 
-![img1](https://https://github.com/riteshbongarde08/Sorting-Visualizer/assets/132136362/3cebed94-0a2e-40dd-ad98-f3bfe9642f17)
+![img1](https://https://https://github.com/riteshbongarde08/Sorting-Visualizer/blob/master/img/img1.png)
 
 ![img2](https://https://github.com/riteshbongarde08/Sorting-Visualizer/assets/132136362/7a35feed-65df-4745-8886-96a92f4c394c)
 
