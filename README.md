@@ -1,5 +1,5 @@
 <h1>Sorting Visualization</h1>
-<h3>This is a simple visualization project made using javascript</h3>
+<h3>This is a Visualization project made using javascript</h3>
 <ul>
 <li>Bubble Sort</li>
 <li>Insertion Sort</li>
